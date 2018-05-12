@@ -1,0 +1,59 @@
+_repo: Birds-Every-Child-Should-Know_38233
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38233-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blanchan, Neltje
+    aliases:
+    - Doubleday, Nellie Blanchan De Graff
+    - Blanchon, Neltje
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '738'
+    url: http://www.gutenberg.org/2009/agents/738
+    wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
+description: 'Describes more than 100 common United States birds, including their
+  physical attributes, calls, and nesting and mating habits. Describes more than 100
+  common United States birds, including their physical attributes, calls, and nesting
+  and mating habits. Originally published in 1907, Birds Every Child Should Know is
+  a collection of storylike descriptions of more than one hundred birds commonly found
+  in the United States. Neltje Blanchan''s detailed descriptions of birds -- their
+  physical attributes, calls, nesting and mating habits, and other behaviors -- are
+  nothing less than enchanting, and some read almost like fairy tales. Take for instance
+  the mockingbird''s call: when the moonlight sheds a silvery radiance about every
+  sleeping creature, the mockingbird sings to his mate such delicious music as only
+  the European nightingale can rival. Perhaps the stillness of the hour, the beauty
+  and fragrance of the place where the singer is hidden among the orange blossoms
+  or magnolia, increase the magic of his almost pathetically sweet voice; but surely
+  there is no lovelier sound in nature on this side of the sea-or the yellow warbler''s
+  nest: an exquisite little cradle of silvery plant fiber, usually shreds of milkweed
+  stalk, grass, leaves, and caterpillar''s silk, neatly lined with hair, feathers,
+  and downy felt of fern fronds. Blanchan includes folk history (how Native Americans
+  and southern slaves thwarted mosquitoes by hanging gourds to attract purple martins)
+  as well as common threats to birds that foreshadow current dangers to avian life
+  (the toll taken on songbirds by lighthouses and electric towers). Such informative
+  details, along with the author''s disarming enthusiasm for her subject, will charm
+  adult bird-watchers as well as children. Cornelia Mutel''s informative foreword
+  places Blanchan''s writing in the historical context of a turn-of-the-century environmental
+  reawakening and burgeoning activism and research by women onbehalf of dwindling
+  bird populations.'
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38233'
+  lccn: '07007517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Birds'
+title: Birds Every Child Should Know
+url: http://www.gutenberg.org/ebooks/38233
